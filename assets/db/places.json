@@ -1,0 +1,72 @@
+var placesData = [
+    {
+        "title":"Kozhikode",
+        "subtitle":"Kerala, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place1.jpg"
+    },
+    {
+        "title":"Kach",
+        "subtitle":"Gujrat, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place2.jpg"
+    },
+    {
+        "title":"Udaipur",
+        "subtitle":"Rajasthan, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place3.jpg"
+    },
+    {
+        "title":"Jodhpur",
+        "subtitle":"Rajasthan, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place4.jpg"
+    },
+    {
+        "title":"Varanasi",
+        "subtitle":"U.P, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place5.jpg"
+    },
+    {
+        "title":"Mysore",
+        "subtitle":"Karnataka, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place6.jpg"
+    },
+    {
+        "title":"Indore",
+        "subtitle":"M.P, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place7.jpg"
+    },
+    {
+        "title":"Bengaluru",
+        "subtitle":"Karnataka, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place8.jpg"
+    },
+    {
+        "title":"Amritsar",
+        "subtitle":"Punjab, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place9.jpg"
+    },
+    {
+        "title":"Guwahati",
+        "subtitle":"Assam, India",
+        "tags":["food", "history","forts"],
+        "rating":"4.9",
+        "imageUrl":"assets/img/place10.jpg"
+    }
+];

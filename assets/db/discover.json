@@ -1,0 +1,31 @@
+var discoverData = [
+    {
+       "title":"Kochi",
+       "description":"24 tours available",
+       "imageUrl":"assets/img/discover1.jpg"  
+    },
+    {
+        "title":"Indore",
+        "description":"24 tours available",
+        "imageUrl":"assets/img/discover2.jpg"  
+     },
+
+     {
+        "title":"Trichy",
+        "description":"24 tours available",
+        "imageUrl":"assets/img/discover3.jpg"  
+     },
+
+     {
+        "title":"Thiruvananthapuram",
+        "description":"24 tours available",
+        "imageUrl":"assets/img/discover4.jpg"  
+     },
+
+     {
+        "title":"Chennai",
+        "description":"24 tours available",
+        "imageUrl":"assets/img/discover5.jpg"  
+     } 
+
+]

@@ -1,0 +1,28 @@
+var articlesData = [
+
+    {
+        "title":["Top 9 Best Snow Destinations to", "Enjoy in Kashmir"],
+        "subtitle":"Winter season has its own charm in India. Many gorgeous Indian landscapes are covered with white glittery snow, preparing the ground for adventure enthusiasts to enjoy skiing, snowboarding, sledging etc. The chilled breeze of mountains and snowfall is always a sight of delight for snow lovers",
+        "body":"Winter season has its own charm in India. Many gorgeous Indian landscapes are covered with white glittery snow, preparing the ground for adventure enthusiasts to enjoy skiing, snowboarding, sledging etc. The chilled breeze of mountains and snowfall is always a sight of delight for snow lovers. Kashmir is one such place which has many enchanting snow destinations for holidays in Winter. During winter Kashmir witnesses lots of snowfall which makes it the best place to enjoy snow adventure sports. Be it honeymoon couples, families, backpackers or solo travelers, winters in Kashmir always enchants tourists from all over the world.",
+        "image":["assets/img/articles11.jpg","assets/img/articles12.jpg"],
+        "author":"sehas raj",
+        "createdAt":"15 Nov,2021"
+    },
+    {
+        "title":["Top Places to Visit in ","Monsoon in India"],
+        "subtitle":"In this blog, we’re discussing in brief the impact of Coronovirus/Covid-19 outbreak on the travel & tourism industry in India, a topic that we can’t and must not ignore.",
+        "body":"There is no doubt that India is a land of diversity; diversity in landscapes, diversity in culture, diversity in language, and more. It is the grandeur of its heritage and the beauty of its places that transforms it into a dreamland. Speaking of its getaways, there are multiple; according to the purpose, season, budget and mood. You just need a reason or better say a break to explore its versatility, from the rough temper of Ladakh to rippling touch of Pondicherry and from the golden sand dunes of Rajasthan to history-telling ruins of Nalanda University, on each exploration you will find a new face of “Incredible India” Visitors thronging this beautiful South Asian nation usually get confused which are the best places that they must include in their holiday itinerary or where to go in India during monsoon. But you need to be a rain-lover and a tough soul to invade here as India is no short of captivating locations. Check out these lovely monsoon getaways that will definitely cast a spell of magic and fill your holidays with adventurous memories that you will treasure forever.",
+        "image":["assets/img/articles21.jpg","assets/img/articles22.jpg"],
+        "author":"vishal khare",
+        "createdAt":"16 Nov,2021"
+    },
+    {
+        "title":["The Impact of Covid-19 on Travel & Tourism Industry in ","India and its Future"],
+        "subtitle":"Travel & tourism industry in India has been a significant contributor to the country’s GDP. The sector even generates a large employment base. So when by mid-March, the popular tourist attractions in India started to close down, ",
+        "body":"I will be honest with you, I did find it difficult to keep my calm while researching this topic, since it directly affects me and the business I am part of. But, as a company, we felt the need to discuss this topic with you, for it’s better to have a known devil than an unknown angel.Travel & tourism industry in India has been a significant contributor to the country’s GDP. The sector even generates a large employment base. So when by mid-March, the popular tourist attractions in India started to close down, and the news on putting a halt on flying began to make rounds, we all started to predict the grim future of the travel industry in the country already. In fact the shutting down of the iconic Taj Mahal on March 17, 2020, which attracts millions of visitors every year, was a sign enough to assess the hard blow this pandemic was launching at us. In this blog, we will try to understand the importance of the tourism sector in India’s e",
+        "image":["assets/img/articles31.jpg","assets/img/articles32.jpg"],
+        "author":"Anshuman dhir",
+        "createdAt":"16 Nov,2021"
+    }
+
+]
